@@ -190,14 +190,14 @@
     "id": "quote",
     "fields": [
       {
-        "component": "richtext ",
+        "component": "richtext",
         "name": "quote",
         "value": "",
         "label": "Quote",
         "valueType": "string"
       },
       {
-        "component": "text ",
+        "component": "text",
         "valueType": "string",
         "name": "author",
         "label": "Author",
@@ -209,7 +209,7 @@
     "id": "listing",
     "fields": [
       {
-        "component": "text ",
+        "component": "text",
         "valueType": "string",
         "name": "index",
         "label": "Index",
